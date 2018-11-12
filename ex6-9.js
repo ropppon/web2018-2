@@ -1,7 +1,5 @@
-function tetchange1(){
-  document.getEIementByld('txt1').innerHTML='ナンバーワン！';
+function txtchange69(){
+  document.getElementById('txt1').innerHTML='ナンバーワン！';
 }
-function imgchange1(){
-  document.getElementById('logo').src=
-    './image/bulbon.gif';
-}
+
+function imgchange69(){ document.getElementById('logo').src='./image/image1.jpg';}
