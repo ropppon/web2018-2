@@ -1,7 +1,8 @@
-function ada(){
-var w = Number(document.getElementById("height").value);
-var y = Number(document.getElementById("weight").value);
-      alert( y / ( (w / 100) * (w / 100) ) );
-    }
-   
+function add2(){
+  
+  var x = document.getElementById('input3').value;
+  var y = document.getElementById('input4').value;
+  
+  alert((Number(x)*10000)/Number(y*y));
+}
               
